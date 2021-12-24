@@ -1,2 +1,2 @@
 # my-texture-pack
-my texture pack i worked on.
+my texture pack i'm working on.
